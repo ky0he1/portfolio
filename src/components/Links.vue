@@ -7,19 +7,19 @@
         <div class="links-img">
           <div class="link-name">GitHub</div>
           <a href="https://github.com/ky0he1" target="_blank">
-            <img src="./assets/github.png">
+            <img src="../assets/github.png">
           </a>
         </div>
         <div class="links-img">
           <div class="link-name">Qiita</div>
           <a href="https://qiita.com/ky0he11218" target="_blank">
-            <img src="./assets/qiita.png">
+            <img src="../assets/qiita.png">
           </a>
         </div>
         <div class="links-img">
           <div class="link-name">Twitter</div>
           <a href="https://twitter.com/ky0he11218" target="_blank">
-            <img src="./assets/twitter.png">
+            <img src="../assets/twitter.png">
           </a>
         </div>
       </div>

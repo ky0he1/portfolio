@@ -3,10 +3,10 @@
     <header>
         <nav>
           <ul>
-            <li><router-link to="./" class="nav-link">Top</router-link></li>
-            <li><router-link to="./About" class="nav-link">About</router-link></li>
-            <li><router-link to="./Skills" class="nav-link">Skills</router-link></li>
-            <li><router-link to="./Links" class="nav-link">Links</router-link></li>
+            <li><router-link to="/portfolio/" class="nav-link">Top</router-link></li>
+            <li><router-link to="/portfolio/about" class="nav-link">About</router-link></li>
+            <li><router-link to="/portfolio/skills" class="nav-link">Skills</router-link></li>
+            <li><router-link to="/portfolio/links" class="nav-link">Links</router-link></li>
           </ul>
         </nav>
       </header>
