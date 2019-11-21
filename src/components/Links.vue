@@ -63,7 +63,7 @@ div.link-name {
   transition-duration: 0.3s;
   margin: 20px 80px 0;
   border-radius: 5px;
-  box-shadow: 0 0 3px gray;
+  border: solid 1px rgba(200, 200, 200, 0.5);
 }
 
 .links-img img:hover{
