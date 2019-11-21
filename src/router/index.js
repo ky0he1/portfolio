@@ -30,5 +30,11 @@ export default new Router({
       name: 'Links',
       component: Links
     },
+    {
+      path: '*',
+      beforeEnter() {
+        window.location = "/portfolio/"
+      }
+    },
   ]
 })

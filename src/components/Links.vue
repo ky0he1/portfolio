@@ -17,6 +17,12 @@
           </a>
         </div>
         <div class="links-img">
+          <div class="link-name">Wantedly</div>
+          <a href="https://www.wantedly.com/users/65883128" target="_blank">
+            <img src="../assets/wantedly_mark.png">
+          </a>
+        </div>
+        <div class="links-img">
           <div class="link-name">Twitter</div>
           <a href="https://twitter.com/ky0he11218" target="_blank">
             <img src="../assets/twitter.png">
@@ -57,6 +63,7 @@ div.link-name {
   transition-duration: 0.3s;
   margin: 20px 80px 0;
   border-radius: 5px;
+  box-shadow: 0 0 3px gray;
 }
 
 .links-img img:hover{
@@ -69,9 +76,9 @@ div.link-name {
 @media screen and (max-width: 499px) { 
   /*　画面サイズ 499pxまで適用　*/
   .links-img img {
-    width: 60px;
-    height: 60px;
-    margin: 20px 20px 0;
+    width: 50px;
+    height: 50px;
+    margin: 16px 16px 0;
   }
 }
 
