@@ -50,6 +50,7 @@
           <p><span class="sub-title">2018/05</span><span>基本情報技術者試験</span></p>
           <p><span class="sub-title">2019/09</span><span>ITパスポート試験</span></p>
           <p><span class="sub-title">2019/10</span><span>情報セキュリティマネジメント試験</span></p>
+          <p><span class="sub-title">2019/12</span><span>情報検定 情報活用試験 2級</span></p>
         </div>
       </div>
     </div>
