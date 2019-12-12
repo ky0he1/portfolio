@@ -19,7 +19,7 @@
         <div class="skill-title">Vue.js</div>
         <p>「いちばんやさしい Vue.js 入門教室」を購入し勉強。このサイトに使用している。インターンでも使用中。</p>
         <p>★★★☆☆</p>
-        <div class="skill-title">DB/SQL</div>
+        <div class="skill-title">DB & SQL</div>
         <p>基本的な知識を持っている。簡単なSQL文を書ける。</p>
         <p>★★☆☆☆</p>
         <div class="skill-title">Go</div>
