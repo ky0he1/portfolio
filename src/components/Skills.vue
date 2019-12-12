@@ -19,18 +19,15 @@
         <div class="skill-title">Vue.js</div>
         <p>「いちばんやさしい Vue.js 入門教室」を購入し勉強。このサイトに使用している。インターンでも使用中。</p>
         <p>★★★☆☆</p>
+        <div class="skill-title">DB/SQL</div>
+        <p>基本的な知識を持っている。簡単なSQL文を書ける。</p>
+        <p>★★☆☆☆</p>
         <div class="skill-title">Go</div>
         <p>好奇心で勉強し始めた。基本文法を学び中。</p>
         <p>★☆☆☆☆</p>
         <div class="skill-title">Linux</div>
         <p>基本的なコマンド「ls, cd, mkdir」（もっとわかるが割愛）など使える。Lpic取りたい。</p>
-        <p>★★★☆☆</p>
-        <div class="skill-title">AWS</div>
-        <p>学校の授業で触った。EC2のインスタンスを立ち上げ、SSHで接続、Webサーバを 作った。DBの接続やスナップショットなども学んだ。学校の授業で触った。</p>
-        <p>★☆☆☆☆</p>
-        <div class="skill-title">Docker</div>
-        <p>Laradockを使い、Laravelの開発環境を構築した。</p>
-        <p>★☆☆☆☆</p>
+        <p>★★☆☆☆</p>
         <div class="skill-title">Web Security</div>
         <p>「安全なアプリケーションの作り方」を一通り読んだ。2019年3月初旬にあるサイトでXSSを見つけIPAに報告し、脆弱性関連情報届出受理証明書を頂いた。情報セキュリティマネジメント試験に合格した。</p>
         <p class="skill-end">★★☆☆☆</p>
