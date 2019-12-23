@@ -9,7 +9,7 @@
         <div class="about-text">
           <p><span class="sub-title">名前</span><span>太田 恭平</span></p>
           <p><span class="sub-title">学校</span><span>情報科学専門学校 情報セキュリティ学科 3年</span></p>
-          <p><span class="sub-title">年齢</span><span>21歳</span></p>
+          <p><span class="sub-title">年齢</span><span>22歳</span></p>
           <p><span class="sub-title">趣味</span><span>ドライブ</span></p>
           <p><span class="sub-title">特技</span><span>日本の長い川ベスト10が言える、ガスボンベを転がせる</span></p>
         </div>
